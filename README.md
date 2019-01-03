@@ -1,2 +1,3 @@
 # 2018_4926_Tippecanoe
 Master code used for the 2018 FRC competition at Tippecanoe by team 4926
+This code is the master code we used at the Tippecanoe competition. The code should acurately operate all the funtions on our competition chassis including driving, the elevator/lift, intake/outtake, pneumatic clamping on the cube, and tilting the elevator pneumatically to fit in starting configuration.  The code doesn't include a slide prevention to prevent the clamp from sliding and help us remain in starting configuartion.  To recieve the most up to date version of our 2018 competition chassis please refer to the 2018_4926_Offseason.
